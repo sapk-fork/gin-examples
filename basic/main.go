@@ -4,6 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
+        _ "github.com/gin-gonic/gin/render/json"
+        _ "github.com/gin-gonic/gin/binding/json"
 )
 
 var db = make(map[string]string)
