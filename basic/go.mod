@@ -17,4 +17,4 @@ require (
 	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3 // indirect
 )
 
-replace github.com/gin-gonic/gin => github.com/sapk-fork/gin v1.3.1-0.20190417170409-5585e519e711
+replace github.com/gin-gonic/gin => github.com/sapk-fork/gin v1.3.1-0.20190406134833-ffcbe77b1e62
